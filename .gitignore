@@ -1,8 +1,7 @@
 #	Don't check in SSH keys!
-*.pem
 
 #	Various directories
-config/
+# config/
 db/
 drop/
 file_base/
